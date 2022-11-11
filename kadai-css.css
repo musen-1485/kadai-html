@@ -19,7 +19,9 @@ header {
 
 
 #wrapper {
+    width: 1000px;
     display: flex;
+    justify-content: space-between;
 }
 
 footer {
